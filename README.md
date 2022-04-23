@@ -9,7 +9,7 @@ We require a Windows or linux system with the Python software.Python (3.7.3 64-b
 
 Open the cmd in windows and import:
 
-python cmm-recom.py sequence.fasta reference.fasta co-mutations group_infor recombination.xls mutation.xls group.xls G0.xls
+python cmm-recom.py sequence.fasta reference.fasta co-mutations group_mut recombination.xls mutation.xls group.xls G0.xls
 
 Input Arguments:
 
@@ -19,7 +19,7 @@ reference.fasta: EPI_ISL_402125 is used as the reference sequence.
 
 co-mutations: a list including the identified co-mutations.
 
-group_infor: a list including groups and corresponding co-mutation modules.
+group_mut: a list including groups and corresponding co-mutation modules.
 
 Output files:
 
