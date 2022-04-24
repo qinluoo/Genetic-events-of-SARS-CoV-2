@@ -1,6 +1,6 @@
 # Usage
 
-"world map.py" was used to draw the spatial distribution map.
+"world_map.py" was used to draw the spatial distribution map.
 
 Package required: pyecharts 0.5.10
 
