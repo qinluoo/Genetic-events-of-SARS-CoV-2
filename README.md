@@ -34,6 +34,8 @@ G0.xls: sequences belonging to G0.
 # Usage of "world_map.py"
 "world map.py" was used to draw the spatial distribution map.
 
+Package required: pyecharts 0.5.10
+
 Open the cmd in windows and import:
 
 python world_map.py country_count.xls
